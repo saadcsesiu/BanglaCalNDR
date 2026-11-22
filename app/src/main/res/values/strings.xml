@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BanglaCalNDR</string>
+    <string name="notification_channel_name">মাস সমাপ্তি বিজ্ঞপ্তি</string>
+    <string name="notification_channel_desc">প্রতি বাংলা মাসের ২৯ তারিখে পরবর্তী মাসের আগমনী বার্তা</string>
+    <string name="notification_title_month_end">মাস সমাপ্তির বার্তা</string>
+    <string name="notification_body_template">আজ %1$s মাসের ২৯ তারিখ। আর মাত্র ১-২ দিনের মধ্যেই নতুন মাস %2$s শুরু হতে যাচ্ছে।</string>
+</resources>

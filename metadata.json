@@ -1,0 +1,6 @@
+{
+  "name": "BanglaCalNDR",
+  "description": "Bangla-First Dual Calendar with Samsung One UI Dark Mode, English Gregorian integration, and month-end alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
