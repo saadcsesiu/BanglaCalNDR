@@ -50,16 +50,6 @@ Prerequisites:
 - Android Studio Ladybug / Meerkat or JDK 17+
 - Android SDK 36 (minSdk: 24)
 
-Clone the repository and build:
-```bash
-git clone https://github.com/<your-username>/BanglaCalNDR.git
-cd BanglaCalNDR
-./gradlew assembleDebug
-```
-The compiled APK will be generated at:
-`app/build/outputs/apk/debug/app-debug.apk`
-
----
 
 ## 📜 License
 Open source and lightweight.
